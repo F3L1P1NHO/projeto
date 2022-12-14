@@ -4,7 +4,7 @@ import {StyleSheet} from 'react-native'
 const styles = StyleSheet.create({
   vw_login:{
     flexGrow: 1,
-    justifyContent: 'flex-start',
+    justifyContent: 'space-around',
     alignItems: 'center',
     backgroundColor: 'black',
   },
